@@ -1,0 +1,539 @@
+[
+  {
+    "sku": "",
+    "name": "Valtti Plus Primer",
+    "category": "Exterior Wood Primer",
+    "type": "primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/valtti-plus-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9637/product/19188/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Siro Matt",
+    "category": "Interior Ceiling Paint",
+    "type": "ceiling paint",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/siro-matt",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9412/product/2282/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9417/product/2282/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Exterior Paint Colour Tester",
+    "category": "Tester",
+    "type": "exterior paint tester",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/exterior-paint-colour-tester",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8895/product/6719/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Valtti Arctic",
+    "category": "Exterior Wood Semi-Transparent",
+    "type": "decorative wood stain",
+    "finish": "translucent/pearlescent",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/valtti-arctic",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7838/product/2062/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9447/product/2062/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9527/product/2062/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Remontti-Ässä",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/remontti-assa",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7914/product/3877/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8130/product/3877/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Presto LF",
+    "category": "Filler",
+    "type": "lightweight filler",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/presto-lf",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8255/product/2024/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8338/product/2024/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Presto R Roll-On Filler (White)",
+    "category": "Filler",
+    "type": "roll-on filler",
+    "finish": "white",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/presto-r-roll-on-filler-white",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9836/product/758/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9838/product/758/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9835/product/758/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9837/product/758/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Parketti Ässä 80 Floor Lacquer",
+    "category": "Interior Wood Floor Lacquer",
+    "type": "waterborne lacquer",
+    "finish": "gloss (80)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/parketti-assa-80-floor-lacquer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9497/product/2008/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8339/product/2008/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7603/product/2008/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+
+
+  {
+    "id": "are-paints-vegan",
+    "category": "Regulation",
+    "q": "Are your paints vegan?",
+    "a": "Yes. Tikkurila paints are 100% synthetic and contain no animal by-products (e.g., shellac, casein).",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/are-your-paints-vegan" },
+    "tags": ["vegan","ingredients","regulation"]
+  },
+  {
+    "id": "animal-testing",
+    "category": "Regulation",
+    "q": "Are Tikkurila’s products or raw materials tested on animals?",
+    "a": "Tikkurila does not test its paints on animals. Under REACH, some raw chemical substances may be animal-tested by suppliers for safety.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/animal-testing" },
+    "tags": ["regulation","REACH","safety"]
+  },
+  {
+    "id": "ceilings-wall-paints",
+    "category": "Application",
+    "q": "Can I use your wall paints on ceilings?",
+    "a": "Yes, but Anti-Reflex 2 is recommended for ceilings: dead-matt, non-flash, great in critical light and easy to touch up.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/can-i-use-any-of-your-wall-paints-on-my-ceilings" },
+    "tags": ["ceilings","AR2","finish"]
+  },
+  {
+    "id": "curing-time",
+    "category": "Application",
+    "q": "How long does my paint need to cure?",
+    "a": "Allow about 1 month for water-based paints to reach maximum durability.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/curing-time" },
+    "tags": ["curing","drying","durability"]
+  },
+  {
+    "id": "minimum-contents",
+    "category": "Orders & Returns",
+    "q": "What does 'minimum contents' on the can mean?",
+    "a": "Cans are filled in Finland; labelled minimum content may be ~10% less than the nominal unit due to measured fill at supply.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/minimum-contents" },
+    "tags": ["packaging","labelling","orders"]
+  },
+  {
+    "id": "radiator-paint-type",
+    "category": "Products",
+    "q": "What type of paint can be used on radiators?",
+    "a": "Use Helmi 10 or Helmi 30; for bare metal, prime with Helmi Primer. Topcoats: Everal Aqua 10/40/80 or Helmi 10/30/80.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/painting-radiators" },
+    "tags": ["radiators","helmi","metal"]
+  },
+  {
+    "id": "paint-laminates",
+    "category": "Substrates",
+    "q": "Can I paint laminates?",
+    "a": "Yes—with sanding, thorough cleaning, and an adhesion primer to help the paint key.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/can-i-paint-laminates" },
+    "tags": ["laminate","prep","primer"]
+  },
+  {
+    "id": "over-previous-gloss",
+    "category": "Substrates",
+    "q": "How do I paint a previously glossed interior wood surface?",
+    "a": "Lightly sand and clean, then use Otex Akva or Otex Adhesion Primer before your chosen topcoat.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/how-do-i-paint-a-previously-glossed-interior-wood-surface" },
+    "tags": ["gloss","wood","otex"]
+  },
+  {
+    "id": "helmi-thinning",
+    "category": "Application",
+    "q": "What is the maximum thinning rate for Helmi topcoats?",
+    "a": "Do not thin Helmi furniture paints by more than ~20%. Check the product TDS for method-specific ratios.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/what-is-the-maximum-thinning-rate-for-helmi-topcoats" },
+    "tags": ["helmi","thinning","spray"]
+  },
+  {
+    "id": "which-primer",
+    "category": "Products",
+    "q": "Which primer/undercoat do I need?",
+    "a": "Typical picks: Optiva Primer (walls), Luja Universal Primer (humid walls), Helmi Primer (interior wood), Ultra Primer (exterior wood), Hydrosol Primer (exterior masonry), Otex Akva (tricky interiors), Otex Adhesion Primer (tricky exteriors).",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/which-primer" },
+    "tags": ["primer","undercoat","selection"]
+  },
+  {
+    "id": "returns-process",
+    "category": "Online Delivery and Returns",
+    "q": "I want to return something I’ve ordered—what do I do?",
+    "a": "Submit a return request and follow the Returns Policy; eligible items can be returned according to the site’s instructions.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/i-want-to-return-something-ive-ordered-what-do-i-need-to-do" }
+  },
+  {
+    "id": "finance-options",
+    "category": "Online Delivery and Returns",
+    "q": "Do you offer finance?",
+    "a": "Yes—finance options are available via Klarna (subject to status).",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/do-you-offer-finance" }
+  },
+  {
+    "id": "minimum-contents",
+    "category": "General",
+    "q": "What does ‘minimum contents’ mean on the can?",
+    "a": "Cans are filled in Finland at ~10% under the nominal volume to allow space for colourant added during tinting for accurate colour.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/minimum-contents" }
+  },
+  {
+    "id": "tds-availability",
+    "category": "General",
+    "q": "Do you have Technical Data Sheets (TDS) and Safety Data Sheets (SDS)?",
+    "a": "Yes—download them from each product page; MSDS/SDS also available on request via email.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/technical-data-sheets" }
+  },
+  {
+    "id": "water-vs-oil",
+    "category": "General",
+    "q": "What’s the difference between water-based and oil-based paint?",
+    "a": "Water-based uses water as the thinner (fast-drying, low odour, lower VOC); oil-based uses solvents (stronger odour, higher VOC).",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/water-based-oil-based" }
+  },
+  {
+    "id": "whitest-white",
+    "category": "Colours",
+    "q": "What is Tikkurila’s whitest white?",
+    "a": "Lumi White (in the Lumi range) is the most brilliant white—great for crisp trims and ceilings.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/what-is-tikkurilas-whitest-white" }
+  },
+  {
+    "id": "ral-codes",
+    "category": "Colours",
+    "q": "Can you provide a RAL or BS code for Tikkurila colours?",
+    "a": "No—we don’t provide RAL/BS references for Tikkurila’s own colours, but our paints are available in full BS, NCS, and RAL ranges.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/can-you-provide-a-ral-code-for-tikkurila-colours" }
+  },
+  {
+    "id": "colour-matching-how",
+    "category": "Colours",
+    "q": "How is colour matching done?",
+    "a": "A spectrophotometer reads your sample; measurements are converted into a tint formula to create your custom colour.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/colour-matching" }
+  },
+  {
+    "id": "spray-suitable",
+    "category": "Application",
+    "q": "Are Tikkurila products suitable for spray application?",
+    "a": "Yes—many products suit airless, air-assisted, HVLP, and conventional spray; check each TDS for exact setup.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/are-tikkurila-products-suitable-for-spray-application" }
+  },
+  {
+    "id": "helmi-spray-details",
+    "category": "Application",
+    "q": "Can Helmi be sprayed with a gravity-fed gun when thinned?",
+    "a": "Yes—Helmi range supports brush, roller, and spray; see Helmi TDS for tip sizes and thinning guidance.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs/helmi-spray-application" }
+  }
+]
+
+
+
+[
+  {
+    "id": "best-for-ceilings",
+    "category": "Recommendations",
+    "q": "What’s the best paint for ceilings?",
+    "a": "Use Anti-Reflex White [2] for a dead-matt, non-flashing ceiling finish and easy touch-ups.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["ceiling","ar2","matt"]
+  },
+  {
+    "id": "best-for-bathrooms",
+    "category": "Recommendations",
+    "q": "What should I use in a bathroom?",
+    "a": "Use the Luja system: Luja Universal Primer + a Luja topcoat (7/20/40) for high humidity and frequent cleaning.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["bathroom","luja","humidity"]
+  },
+  {
+    "id": "paint-over-laminate",
+    "category": "Substrates",
+    "q": "Can I paint laminate furniture or doors?",
+    "a": "Yes. Clean and sand to de-gloss, then prime with Otex Akva or Otex Adhesion Primer. Finish with Helmi or Everal Aqua.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["laminate","primer","otex","helmi"]
+  },
+  {
+    "id": "radiators-which-paint",
+    "category": "Products",
+    "q": "Which paint for radiators?",
+    "a": "Prime bare metal with Helmi Primer or Rostex (as appropriate). Topcoat with Everal Aqua 10/40/80 or Helmi 10/30/80.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["radiators","metal","helmi","everal-aqua"]
+  },
+  {
+    "id": "tile-painting",
+    "category": "Substrates",
+    "q": "Can I paint ceramic tiles?",
+    "a": "Use Luja Ceramic Tiles system: clean, abrade, follow the system TDS; suitable for many interior tiled areas.",
+    "links": { "source": "https://www.tikkurila.co.uk/luja-ceramic-tiles" },
+    "tags": ["tiles","bathroom","kitchen","luja"]
+  },
+  {
+    "id": "class-1-scrub",
+    "category": "Technical",
+    "q": "What does Class 1 scrub resistance mean?",
+    "a": "It’s the highest EN 13300 wet scrub rating—very durable and washable (e.g., Optiva Matt [5], Optiva Ceramic [3]).",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["en13300","scrub","durability"]
+  },
+  {
+    "id": "stain-blocking-options",
+    "category": "Technical",
+    "q": "How do I block stains or nicotine/tannin bleed?",
+    "a": "Use a sealer/primer like Akrostop or Multistop on interior walls/ceilings after cleaning and drying the surface.",
+    "links": { "source": "https://www.tikkurila.co.uk/akrostop-sealing-paint" },
+    "tags": ["stain-block","sealer","primer"]
+  },
+  {
+    "id": "exterior-wood-opaque-vs-translucent",
+    "category": "Recommendations",
+    "q": "Exterior wood: opaque or translucent?",
+    "a": "Opaque hides grain (e.g., Valtti Opaque, Pika-Teho). Translucent shows grain (e.g., Ultra Classic, Valtti Color). Choose based on look and maintenance.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["exterior-wood","opaque","translucent"]
+  },
+  {
+    "id": "uPVC-painting",
+    "category": "Substrates",
+    "q": "Can I paint uPVC?",
+    "a": "Yes. Thoroughly clean/degrease, lightly abrade, prime with Otex Akva/Adhesion Primer, then finish with Helmi or Everal Aqua.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["upvc","primer","otex"]
+  },
+  {
+    "id": "testers-availability",
+    "category": "Orders & Samples",
+    "q": "Do you offer paint testers?",
+    "a": "Yes—Interior Paint Colour Tester and Exterior Wood Stain & Paint Tester are available to sample shades before buying.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["tester","samples","colour"]
+  },
+  {
+    "id": "mould-mildew",
+    "category": "Preparation",
+    "q": "Can I paint over mould or mildew?",
+    "a": "No—kill and clean it first with a suitable mould remover. Let dry fully, then prime/seal if staining remains and finish with a moisture-resistant system (e.g., Luja in bathrooms).",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["mould","prep","bathroom","luja"]
+  },
+  {
+    "id": "recoat-times",
+    "category": "Application",
+    "q": "How long between coats?",
+    "a": "Most water-borne products recoat in ~2–4 hours at 23°C/50% RH. Always check the product TDS for exact times.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["drying","recoat","tds"]
+  },
+  {
+    "id": "application-conditions",
+    "category": "Application",
+    "q": "What temperature and humidity can I paint in?",
+    "a": "Work on a dry surface, typically above +5°C and below ~80% RH. Avoid cold/damp or direct sun. Check each TDS for limits.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["temperature","humidity","conditions"]
+  },
+  {
+    "id": "how-much-paint",
+    "category": "Planning",
+    "q": "How much paint do I need?",
+    "a": "Area ÷ coverage = litres per coat. Example: 50 m² ÷ 10 m²/L = 5 L per coat. Multiply by number of coats; check the product’s stated coverage.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["coverage","calculator","planning"]
+  },
+  {
+    "id": "bare-wood-metal-prime",
+    "category": "Substrates",
+    "q": "Do I need an undercoat on bare wood or metal?",
+    "a": "Yes—prime first. Typical picks: Helmi Primer (interior wood), Otex Akva/Otex Adhesion (difficult surfaces), Rostex (metal), Ultra Primer (exterior wood).",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["primer","wood","metal","otex","rostex","ultra-primer"]
+  },
+  {
+    "id": "kitchen-cabinets",
+    "category": "Recommendations",
+    "q": "Best system for kitchen cabinets?",
+    "a": "Degrease, sand, then adhesion-prime (Otex Akva/Otex Adhesion). Topcoat with Helmi 10/30 or Everal Aqua 10/40/80 depending on sheen and durability preference.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["kitchen","cabinets","helmi","everal-aqua","otex"]
+  },
+  {
+    "id": "over-old-oil",
+    "category": "Substrates",
+    "q": "Can I paint water-based over old oil-based paint?",
+    "a": "Yes—wash, sand to de-gloss, use an adhesion primer (Otex Akva/Adhesion), then apply your water-borne topcoat.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["oil-to-water","primer","otex"]
+  },
+  {
+    "id": "voc-levels",
+    "category": "Technical",
+    "q": "Are your paints low VOC?",
+    "a": "Many interior ranges are low-VOC and some zero-added-VOC when untinted. Exact VOC figures are listed on each product TDS.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["voc","indoor-air","tds"]
+  },
+  {
+    "id": "radiator-heat-resistance",
+    "category": "Products",
+    "q": "Are your enamels suitable for radiators?",
+    "a": "Yes—water-borne enamels like Everal Aqua and Helmi are used on radiators when primed correctly. Follow the product TDS for prep and heat limits.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["radiators","everal-aqua","helmi","metal"]
+  },
+  {
+    "id": "ceiling-touch-up",
+    "category": "Application",
+    "q": "How do I touch up ceilings without flashing?",
+    "a": "Use a dead-matt like Anti-Reflex 2, apply thin, feather edges, and use the same batch and tool. Work corner-to-corner under similar lighting.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["touch-up","ceiling","ar2","flashing"]
+  },
+  {
+    "id": "sand-between-coats",
+    "category": "Application",
+    "q": "Do I need to sand between coats?",
+    "a": "Lightly denib between coats once dry—especially on enamels and lacquers—to remove nibs and improve adhesion. Wipe dust off before recoating.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["prep","sanding","enamels","lacquer"]
+  },
+  {
+    "id": "fresh-plaster",
+    "category": "Substrates",
+    "q": "How do I paint fresh plaster?",
+    "a": "Allow plaster to dry fully. Prime with a suitable wall primer (avoid PVA). Then apply your chosen topcoat (e.g., Optiva range). In humid rooms use the Luja system.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["plaster","primer","optiva","luja"]
+  },
+  {
+    "id": "chalky-or-porous-surfaces",
+    "category": "Substrates",
+    "q": "What should I do with chalky or very porous walls?",
+    "a": "Brush/scrape off friable material, wash, let dry. Use a binding/priming coat per product TDS, then apply your finish. Heavily stained areas may need a stain-blocking primer.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["chalky","porous","primer","stain-block"]
+  },
+  {
+    "id": "exterior-bare-wood-system",
+    "category": "Recommendations",
+    "q": "What’s a typical system for exterior bare wood?",
+    "a": "Prep (clean/sand), prime with an exterior wood primer (e.g., Ultra Primer), then finish with either an opaque (Valtti Opaque/Teho Modern) or translucent (Ultra Classic/Valtti Color) coating.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["exterior","wood","primer","opaque","translucent"]
+  },
+  {
+    "id": "resinous-knots",
+    "category": "Substrates",
+    "q": "How do I deal with resinous knots and pitch bleed?",
+    "a": "Remove resin mechanically and with suitable solvent, allow to dry, then prime. Severe knots may continue to exude; monitor and re-prime if needed before finishing.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["knots","resin","softwood","primer"]
+  },
+  {
+    "id": "oak-tannin-bleed",
+    "category": "Substrates",
+    "q": "I’m painting oak and getting brown stains—what is it?",
+    "a": "Tannins can bleed through water-borne coats. Clean, allow to dry, and use a suitable tannin-inhibiting primer before your topcoat.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["oak","tannin","stain","primer"]
+  },
+  {
+    "id": "floors-which-product",
+    "category": "Recommendations",
+    "q": "Which products are suitable for floors?",
+    "a": "Concrete/previously painted floors: Betolux or Betolux Akva. Interior timber floors: Parketti Ässä lacquers (5/20/50/80) after proper prep and priming if required.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["floors","betolux","parketti-assa"]
+  },
+  {
+    "id": "roller-sleeve-choice",
+    "category": "Application",
+    "q": "Which roller sleeve should I use?",
+    "a": "Walls/ceilings with emulsion: medium pile microfibre (~9–12 mm). Woodwork/enamels: short pile (~4–6 mm) or foam/velour. Always test and follow TDS guidance.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["roller","tools","finish"]
+  },
+  {
+    "id": "cold-weather-drying",
+    "category": "Application",
+    "q": "Can I paint in cold or damp conditions?",
+    "a": "Avoid low temperatures and high humidity. Most products need > +5°C and dry conditions. Drying and curing slow significantly in cold/damp—follow each TDS.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["temperature","humidity","drying"]
+  },
+  {
+    "id": "storage-disposal",
+    "category": "Safety & Environment",
+    "q": "How do I store and dispose of paint?",
+    "a": "Store sealed, upright, frost-free. Keep away from heat and direct sun. Do not pour leftovers down drains; take to local recycling/waste facilities as per local guidance.",
+    "links": { "source": "https://www.tikkurila.co.uk/faqs" },
+    "tags": ["storage","disposal","environment"]
+  }
+]
+
+
+
+
+
+
+
+
+
+
