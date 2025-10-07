@@ -1,1 +1,2348 @@
-public/Products.json
+[
+  {
+    "sku": "C933",
+    "name": "Everal Aqua Matt [10]",
+    "category": "Wood & Metal Enamel",
+    "type": "enamel",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/everal-aqua-matt-10",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9880/product/2042/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9848/product/2042/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Anti-Reflex White [2]",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "ultra-matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/anti-reflex-white-2",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9879/product/2371/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9889/product/2371/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Optiva Ceramic Super Matt [3]",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "super-matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/optiva-ceramic-super-matt-3",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9878/product/1993/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8548/product/1993/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9847/product/1993/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9854/product/1993/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "C193",
+    "name": "Optiva Matt [5]",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/optiva-matt-5",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7748/product/2041/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9911/product/2041/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9923/product/2041/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Optiva Satin Matt [7]",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "satin-matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/optiva-satin-matt-7",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9855/product/2429/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9861/product/2429/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9907/product/2429/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Optiva Semi Matt [20]",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "semi-matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/optiva-semi-matt-20",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9851/product/2074/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9882/product/2074/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9905/product/2074/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Optiva Primer",
+    "category": "Primer",
+    "type": "primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/optiva-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9884/product/1991/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9885/product/1991/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9917/product/1991/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Helmi 10",
+    "category": "Interior Wood & Metal Enamel",
+    "type": "enamel",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/helmi-10",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9007/product/1933/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9859/product/1933/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9864/product/1933/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9896/product/1933/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9915/product/1933/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9916/product/1933/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Helmi 30",
+    "category": "Interior Wood & Metal Enamel",
+    "type": "enamel",
+    "finish": "semi-matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/helmi-30",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9844/product/2002/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9908/product/2002/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9909/product/2002/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9921/product/2002/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9005/product/2002/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9009/product/2002/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Helmi 80",
+    "category": "Interior Wood & Metal Enamel",
+    "type": "enamel",
+    "finish": "gloss",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/helmi-80",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9845/product/2138/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9876/product/2138/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9883/product/2138/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9898/product/2138/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9918/product/2138/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9006/product/2138/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Helmi Primer",
+    "category": "Primer",
+    "type": "primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/helmi-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9008/product/2037/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9692/product/2037/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9517/product/2037/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9494/product/2037/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Valtti Opaque",
+    "category": "Exterior Wood Opaque Paint",
+    "type": "wood paint",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/valtti-opaque",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9892/product/2018/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9865/product/2018/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9853/product/2018/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Vinyl Matt",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/vinyl-matt",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9872/product/9207/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9904/product/9207/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Otex Akva",
+    "category": "Primer",
+    "type": "primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/otex-akva",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9852/product/2198/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9874/product/2198/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9919/product/2198/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Otex Adhesion Primer",
+    "category": "Primer",
+    "type": "primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/otex-adhesion-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9866/product/2027/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9869/product/2027/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9873/product/2027/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Ultra Primer",
+    "category": "Primer",
+    "type": "primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/ultra-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9679/product/1994/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8790/product/1994/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9681/product/1994/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Luja 7",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/luja-7",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9846/product/18341/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9857/product/18341/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Luja 20",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "semi-matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/luja-20",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9890/product/18340/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9899/product/18340/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9887/product/18340/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Luja 40",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "semi-gloss",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/luja-40",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9875/product/18342/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9871/product/18342/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9893/product/18342/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Luja Universal Primer",
+    "category": "Primer",
+    "type": "primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/luja-universal-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7825/product/2189/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9441/product/2189/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8731/product/2189/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9487/product/2189/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Optiva Nature Matt [5]",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/optiva-nature-matt-5",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8997/product/9150/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9539/product/9150/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9000/product/9150/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Joker",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/joker",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9858/product/2126/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9895/product/2126/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9903/product/2126/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Optiva Colour",
+    "category": "Interior Paint Tinting System",
+    "type": "tintable bases",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/optiva-colour",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9045/product/2172/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9901/product/2172/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9910/product/2172/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9922/product/2172/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Ultra Classic",
+    "category": "Exterior Wood Semi-Transparent",
+    "type": "wood stain",
+    "finish": "translucent",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/ultra-classic",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9849/product/2140/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9888/product/2140/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Rostex Super Akva",
+    "category": "Metal Primer",
+    "type": "primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/rostex-super-akva",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8772/product/1974/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9565/product/1974/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9450/product/1974/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Valtti Akvacolor",
+    "category": "Exterior Wood Semi-Transparent",
+    "type": "wood stain",
+    "finish": "translucent",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/valtti-akvacolor",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9473/product/1971/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7895/product/1971/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8732/product/1971/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Valtti Color",
+    "category": "Exterior Wood Semi-Transparent",
+    "type": "wood stain (solvent-borne)",
+    "finish": "translucent",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/valtti-color",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9704/product/1955/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9369/product/1955/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9694/product/1955/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9377/product/1955/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Valtti Primer",
+    "category": "Exterior Wood Primer",
+    "type": "primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/valtti-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9701/product/4151/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9102/product/4151/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9702/product/4151/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9128/product/4151/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Taika Stardust",
+    "category": "Decorative Effect Paint",
+    "type": "effect paint",
+    "finish": "glitter",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/taika-stardust",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8390/product/2016/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9373/product/2016/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8521/product/2016/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9512/product/2016/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Everal Aqua Semi Matt [40]",
+    "category": "Wood & Metal Enamel",
+    "type": "enamel",
+    "finish": "semi-matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/everal-aqua-semi-matt-40",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9894/product/1982/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9906/product/1982/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Taika Pearl Paint",
+    "category": "Decorative Effect Paint",
+    "type": "effect paint",
+    "finish": "pearlescent",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/taika-pearl-paint",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8514/product/2114/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8519/product/2114/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9753/product/2114/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8131/product/2114/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8945/product/2114/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9346/product/2114/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9504/product/2114/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Taika Glow",
+    "category": "Decorative Effect Paint",
+    "type": "glow-in-the-dark paint",
+    "finish": "luminous",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/taika-glow",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8341/product/2237/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7604/product/2237/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Liitu Blackboard Paint",
+    "category": "Specialty Interior",
+    "type": "blackboard paint",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/liitu-blackboard-paint",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7851/product/2036/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8744/product/2036/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9415/product/2036/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9458/product/2036/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Optiva White",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/optiva-white",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9047/product/1959/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8030/product/1959/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9522/product/1959/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Unica Super 90",
+    "category": "Wood & Metal Enamel",
+    "type": "alkyd enamel",
+    "finish": "high gloss",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/unica-super-90",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9708/product/2244/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9155/product/2244/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9433/product/2244/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Magnetic",
+    "category": "Specialty Interior",
+    "type": "magnetic paint",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/magnetic",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8170/product/2301/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9516/product/2301/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9358/product/2301/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8752/product/2301/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Kiva 10",
+    "category": "Interior Wood Lacquer",
+    "type": "waterborne lacquer",
+    "finish": "matt (10)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/kiva-10",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9744/product/2013/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7577/product/2013/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8902/product/2013/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8955/product/2013/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9445/product/2013/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9536/product/2013/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8629/product/2013/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Muuri",
+    "category": "Specialty Masonry",
+    "type": "fireplace paint",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/muuri",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9758/product/2235/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Miranol",
+    "category": "Wood & Metal Enamel",
+    "type": "alkyd enamel",
+    "finish": "gloss",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/miranol",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9478/product/1944/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9541/product/1944/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Kiva 30",
+    "category": "Interior Wood Lacquer",
+    "type": "waterborne lacquer",
+    "finish": "semi-matt (30)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/kiva-30",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8448/product/2168/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9751/product/2168/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8037/product/2168/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9361/product/2168/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9440/product/2168/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Metallista Extra",
+    "category": "Metal Paint",
+    "type": "metal paint",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/metallista-extra",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9654/product/19197/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9653/product/19197/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Kiva 70",
+    "category": "Interior Wood Lacquer",
+    "type": "waterborne lacquer",
+    "finish": "gloss (70)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/kiva-70",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8516/product/2290/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9443/product/2290/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7844/product/2290/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Pontti Floor Paint 60",
+    "category": "Floor Paint",
+    "type": "floor paint",
+    "finish": "semi-gloss (60)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/pontti-floor-paint-60",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9711/product/19225/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9639/product/19225/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Lumi",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/lumi",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8475/product/2053/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9200/product/2053/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Empire Furniture Paint",
+    "category": "Wood & Metal Enamel",
+    "type": "alkyd enamel",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/empire-furniture-paint",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9165/product/2003/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9469/product/2003/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9146/product/2003/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9491/product/2003/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Supi Sauna Wax (Tintable)",
+    "category": "Sauna Treatment",
+    "type": "wax",
+    "finish": "natural",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/supi-sauna-wax-tintable",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8193/product/2253/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8460/product/2253/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9376/product/2253/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9546/product/2253/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8812/product/2253/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Supi Sauna Wax",
+    "category": "Sauna Treatment",
+    "type": "wax",
+    "finish": "natural",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/supi-sauna-wax",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7801/product/1941/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8577/product/1941/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7707/product/1941/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Unica Super 20",
+    "category": "Wood & Metal Enamel",
+    "type": "alkyd enamel",
+    "finish": "satin (20)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/unica-super-20",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9705/product/2171/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9152/product/2171/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9718/product/2171/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9159/product/2171/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Unica Super 60",
+    "category": "Wood & Metal Enamel",
+    "type": "alkyd enamel",
+    "finish": "semi-gloss (60)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/unica-super-60",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9353/product/1960/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9712/product/1960/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9158/product/1960/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Unica Akva",
+    "category": "Wood & Metal Enamel",
+    "type": "waterborne enamel",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/unica-akva",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9714/product/2204/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9728/product/2204/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8054/product/2204/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9419/product/2204/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9563/product/2204/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Unica Akva Lacquer",
+    "category": "Wood Lacquer",
+    "type": "waterborne lacquer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/unica-akva-lacquer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9470/product/2210/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9423/product/2210/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8409/product/2210/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Unica Semi-Gloss Enamel",
+    "category": "Wood & Metal Enamel",
+    "type": "alkyd enamel",
+    "finish": "semi-gloss",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/unica-semi-gloss-enamel",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9463/product/2096/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Rostex Super Metal Primer",
+    "category": "Metal Primer",
+    "type": "primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/rostex-super-metal-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9489/product/2068/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8484/product/2068/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Betolux",
+    "category": "Floor Paint",
+    "type": "solvent-borne floor paint",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/betolux",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9392/product/2066/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9726/product/2066/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9416/product/2066/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Pika-Teho",
+    "category": "Exterior Wood Opaque Paint",
+    "type": "opaque wood paint",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/pika-teho",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9775/product/19445/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9776/product/19445/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Luja Ceramic Tiles",
+    "category": "Tile Coating",
+    "type": "tile paint/system",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/luja-ceramic-tiles",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9785/product/19452/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Everal Aqua Gloss [80]",
+    "category": "Wood & Metal Enamel",
+    "type": "enamel",
+    "finish": "gloss (80)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/everal-aqua-gloss-80",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9860/product/1987/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9862/product/1987/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Betolux Akva",
+    "category": "Floor Paint",
+    "type": "waterborne floor paint",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/betolux-akva",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9710/product/2144/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9722/product/2144/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9351/product/2144/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9439/product/2144/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Parketti Ässä 20 Floor Lacquer",
+    "category": "Interior Wood Floor Lacquer",
+    "type": "waterborne lacquer",
+    "finish": "matt (20)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/parketti-assa-20-floor-lacquer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9547/product/2185/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Supi Saunapesu Cleaning Agent",
+    "category": "Cleaner",
+    "type": "sauna cleaner",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/supi-saunapesu-cleaning-agent",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7562/product/2276/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9014/product/2276/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8740/product/2276/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9550/product/2276/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Akrostop Sealing Paint",
+    "category": "Sealing Paint / Stain Blocker",
+    "type": "sealer/primer",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/akrostop-sealing-paint",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8127/product/1977/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9790/product/1977/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9344/product/1977/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8808/product/1977/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Parketti Ässä 50 Floor Lacquer",
+    "category": "Interior Wood Floor Lacquer",
+    "type": "waterborne lacquer",
+    "finish": "semi-gloss (50)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/parketti-assa-50-floor-lacquer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7758/product/2128/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9531/product/2128/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8114/product/2128/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Helmi Furniture Filler",
+    "category": "Filler",
+    "type": "ready-mixed filler",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/helmi-furniture-filler",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7769/product/1155/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8741/product/1155/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9465/product/1155/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9414/product/1155/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Everal Aqua Primer",
+    "category": "Primer",
+    "type": "primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/everal-aqua-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9868/product/2293/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9886/product/2293/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Supi Sauna Finish (Saunasuoja)",
+    "category": "Sauna Treatment",
+    "type": "protective finish",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/supi-sauna-finish-saunasuoja",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8302/product/2230/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8020/product/2230/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9486/product/2230/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Kilpi Roof Tile Paint 7100131",
+    "category": "Roof Coating",
+    "type": "roof tile paint",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/kilpi-roof-tile-paint-7100131",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7624/product/4306/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8436/product/4306/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8412/product/4306/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Supi Floor Oil",
+    "category": "Floor Oil",
+    "type": "oil",
+    "finish": "natural",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/supi-floor-oil",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8361/product/5205/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8527/product/5205/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8071/product/5205/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Multistop",
+    "category": "Stain-Blocking Primer/Sealer",
+    "type": "stain blocker",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/multistop",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8058/product/1966/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9405/product/1966/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7609/product/1966/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Finngard Uni Primer",
+    "category": "Masonry Primer",
+    "type": "primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/finngard-uni-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9695/product/3870/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9699/product/3870/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9444/product/3870/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9474/product/3870/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Finngard Silicone Protect",
+    "category": "Masonry Paint",
+    "type": "silicone resin masonry paint",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/finngard-silicone-protect",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9461/product/2046/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9390/product/2046/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Finngard Opaque",
+    "category": "Masonry Paint",
+    "type": "opaque masonry coating",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/finngard-opaque",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7757/product/2052/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7622/product/2052/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Panssari Akva",
+    "category": "Roof Paint",
+    "type": "waterborne roof paint",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/panssari-akva",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9456/product/2064/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9139/product/2064/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9138/product/2064/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9508/product/2064/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Kilpi Paint for Bitumen Roofs",
+    "category": "Roof Coating",
+    "type": "bitumen roof paint",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/kilpi-paint-for-bitumen-roofs",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8590/product/2251/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9398/product/2251/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8717/product/2251/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9558/product/2251/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Wood Oil Akva (Puuöljy Akva)",
+    "category": "Exterior Wood Oil",
+    "type": "waterborne oil",
+    "finish": "natural",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/wood-oil-akva-puuoljy-akva",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9717/product/2014/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9402/product/2014/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8789/product/2014/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Ultra Matt",
+    "category": "Exterior Wood Semi-Transparent",
+    "type": "wood coating",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/ultra-matt",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9863/product/2025/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9920/product/2025/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Valtti Plus Kesto",
+    "category": "Exterior Wood Semi-Transparent",
+    "type": "durable wood stain",
+    "finish": "translucent",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/valtti-plus-kesto",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9696/product/1932/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9370/product/1932/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9703/product/1932/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7573/product/1932/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Wood Oil (Puuöljy)",
+    "category": "Exterior Wood Oil",
+    "type": "solvent-borne oil",
+    "finish": "natural",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/wood-oil-puuoljy",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8459/product/2214/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9467/product/2214/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9523/product/2214/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Valtti Plus Terrace Oil",
+    "category": "Decking Oil",
+    "type": "exterior wood oil",
+    "finish": "translucent",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/valtti-plus-terrace-oil",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9719/product/2124/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9566/product/2124/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8661/product/2124/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9720/product/2124/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Valtti Bio Terrace Oil",
+    "category": "Decking Oil",
+    "type": "bio-based exterior oil",
+    "finish": "translucent",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/valtti-bio-terrace-oil",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9529/product/2444/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7826/product/2444/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8781/product/2444/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Finngard Facade Colour Tester",
+    "category": "Tester",
+    "type": "masonry colour tester",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/finngard-facade-colour-tester",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7679/product/2038/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8518/product/2038/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Patio & Paving Stain",
+    "category": "Exterior Hardscape Stain",
+    "type": "patio/paving stain",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/patio-paving-stain",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8978/product/5459/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9526/product/5459/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9729/product/5459/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9709/product/5459/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8977/product/5459/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Valtti Plus Color",
+    "category": "Exterior Wood Semi-Transparent",
+    "type": "wood stain",
+    "finish": "translucent",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/valtti-plus-color",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9476/product/10578/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9391/product/10578/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9698/product/10578/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Luja Moisture Stop",
+    "category": "Moisture Barrier Primer",
+    "type": "barrier primer/sealer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/luja-moisture-stop",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9066/product/11464/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9065/product/11464/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Exterior Wood Stain & Paint Tester",
+    "category": "Tester",
+    "type": "exterior wood tester",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/exterior-wood-stain-paint-tester",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9107/product/14533/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Nova 7",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "matt (7)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/nova-7",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8485/product/2103/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7706/product/2103/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9359/product/2103/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Nova 20",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "semi-matt (20)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/nova-20",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7595/product/2213/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9349/product/2213/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8045/product/2213/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Paneeli Ässä Hirsisuoja (Log Protection)",
+    "category": "Interior Wood Treatment",
+    "type": "log protection",
+    "finish": "translucent",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/paneeli-assa-hirsisuoja-log-protection",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7656/product/2056/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8667/product/2056/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9357/product/2056/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Paneeli Ässä Titan",
+    "category": "Interior Wood Varnish",
+    "type": "panel varnish",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/paneeli-assa-titan",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8323/product/2150/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9352/product/2150/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9436/product/2150/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8550/product/2150/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Tixomatt Ceiling Primer",
+    "category": "Primer",
+    "type": "ceiling primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/tixomatt-ceiling-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9167/product/2017/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9427/product/2017/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9168/product/2017/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9367/product/2017/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Super White",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/super-white",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8011/product/2298/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9730/product/2298/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9500/product/2298/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Patio & Paving Stain",
+    "category": "Exterior Hardscape Stain",
+    "type": "patio/paving stain",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/patio-paving-stain",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8978/product/5459/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9526/product/5459/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9729/product/5459/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9709/product/5459/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8977/product/5459/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Valtti Plus Color",
+    "category": "Exterior Wood Semi-Transparent",
+    "type": "wood stain",
+    "finish": "translucent",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/valtti-plus-color",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9476/product/10578/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9391/product/10578/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9698/product/10578/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Luja Moisture Stop",
+    "category": "Moisture Barrier Primer",
+    "type": "barrier primer/sealer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/luja-moisture-stop",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9066/product/11464/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9065/product/11464/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Exterior Wood Stain & Paint Tester",
+    "category": "Tester",
+    "type": "exterior wood tester",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/exterior-wood-stain-paint-tester",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9107/product/14533/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Nova 7",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "matt (7)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/nova-7",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8485/product/2103/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7706/product/2103/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9359/product/2103/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Nova 20",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "semi-matt (20)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/nova-20",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7595/product/2213/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9349/product/2213/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8045/product/2213/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Paneeli Ässä Hirsisuoja (Log Protection)",
+    "category": "Interior Wood Treatment",
+    "type": "log protection",
+    "finish": "translucent",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/paneeli-assa-hirsisuoja-log-protection",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7656/product/2056/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8667/product/2056/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9357/product/2056/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Paneeli Ässä Titan",
+    "category": "Interior Wood Varnish",
+    "type": "panel varnish",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/paneeli-assa-titan",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8323/product/2150/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9352/product/2150/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9436/product/2150/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8550/product/2150/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Tixomatt Ceiling Primer",
+    "category": "Primer",
+    "type": "ceiling primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/tixomatt-ceiling-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9167/product/2017/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9427/product/2017/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9168/product/2017/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9367/product/2017/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Super White",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/super-white",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8011/product/2298/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9730/product/2298/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9500/product/2298/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Kilpi Sammaleenpoistaja (Moss Removal)",
+    "category": "Cleaner",
+    "type": "moss remover",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/kilpi-sammaleenpoistaja-moss-removal",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8207/product/253/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8588/product/253/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9406/product/253/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9462/product/253/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Panssarimaali",
+    "category": "Roof Paint",
+    "type": "solvent-borne roof paint",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/panssarimaali",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9150/product/2161/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9144/product/2161/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9553/product/2161/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7646/product/2161/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8010/product/2161/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Öljypohja Primer",
+    "category": "Primer",
+    "type": "solvent-borne wood primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/oljypohja-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9162/product/1997/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9160/product/1997/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Optiva Clean Air",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/optiva-clean-air",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9321/product/19087/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9320/product/19087/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Maalipesu (Cleaning Agent)",
+    "category": "Cleaner",
+    "type": "surface cleaner",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/cleaning-agent-maalipesu",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7701/product/2117/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8631/product/2117/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9389/product/2117/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9400/product/2117/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Teho Modern",
+    "category": "Exterior Wood Opaque Paint",
+    "type": "opaque wood paint",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/teho-modern",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9778/product/19446/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Helmi Furniture Wax (White)",
+    "category": "Furniture Wax",
+    "type": "wax",
+    "finish": "white",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/helmi-furniture-wax-white",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9630/product/19162/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9629/product/19162/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Finngard Silicone AllWeather",
+    "category": "Masonry Paint",
+    "type": "silicone resin masonry paint",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/finngard-silicone-allweather",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9625/product/19170/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9626/product/19170/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9624/product/19170/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9627/product/19170/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Helmi Furniture Wax (Tintable)",
+    "category": "Furniture Wax",
+    "type": "wax",
+    "finish": "tintable",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/helmi-furniture-wax-tintable",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9628/product/19171/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9630/product/19171/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Helmi Furniture Lacquer 30",
+    "category": "Furniture Lacquer",
+    "type": "waterborne lacquer",
+    "finish": "semi-matt (30)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/helmi-furniture-lacquer-30",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9632/product/19174/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9648/product/19174/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9659/product/19174/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Pontti Floor Oil",
+    "category": "Floor Oil",
+    "type": "oil",
+    "finish": "natural",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/pontti-floor-oil",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9646/product/19192/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9647/product/19192/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Pontti Floor Lacquer 50",
+    "category": "Interior Wood Floor Lacquer",
+    "type": "waterborne lacquer",
+    "finish": "semi-gloss (50)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/pontti-floor-lacquer-50",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9645/product/19228/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9644/product/19228/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Pontti Floor Paint 30",
+    "category": "Floor Paint",
+    "type": "floor paint",
+    "finish": "matt (30)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/pontti-floor-paint-30",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9641/product/19227/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9640/product/19227/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Pontti Floor Lacquer 5",
+    "category": "Interior Wood Floor Lacquer",
+    "type": "waterborne lacquer",
+    "finish": "ultra-matt (5)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/pontti-floor-lacquer-5",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9643/product/19226/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9642/product/19226/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Metallista 2-in-1",
+    "category": "Metal Paint",
+    "type": "primer-finish metal paint",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/metallista-2-in-1",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9652/product/19224/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Nova 2",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "deep matt (2)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/nova-2",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9027/product/15631/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9039/product/15631/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9420/product/15631/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Argentum Plus 7",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "antimicrobial emulsion",
+    "finish": "matt (7)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/argentum-plus-7",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9656/product/19196/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9655/product/19196/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Helmi Patterimaali (Radiator Paint)",
+    "category": "Radiator Paint",
+    "type": "enamel",
+    "finish": "gloss",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/helmi-patterimaali-radiator-paint",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7704/product/2315/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8611/product/2315/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Interior Paint Colour Tester",
+    "category": "Tester",
+    "type": "interior colour tester",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/interior-paint-colour-tester",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8904/product/6720/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Taika Pearl Glaze",
+    "category": "Decorative Effect Glaze",
+    "type": "pearl glaze",
+    "finish": "pearlescent",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/taika-pearl-glaze",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7565/product/1937/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8662/product/1937/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8950/product/1937/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9410/product/1937/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9385/product/1937/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Intact Primer",
+    "category": "Primer",
+    "type": "primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/intact-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8189/product/2182/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9422/product/2182/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8081/product/2182/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9499/product/2182/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Intact 8",
+    "category": "Furniture & Joinery Coating",
+    "type": "coating",
+    "finish": "matt (8)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/intact-8",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9396/product/2153/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9568/product/2153/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Intact 40",
+    "category": "Furniture & Joinery Coating",
+    "type": "coating",
+    "finish": "semi-gloss (40)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/intact-40",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9355/product/2077/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9503/product/2077/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Intact LAQ 10",
+    "category": "Furniture Lacquer",
+    "type": "lacquer",
+    "finish": "matt (10)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/intact-laq-10",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9537/product/2305/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9496/product/2305/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Intact LAQ 30",
+    "category": "Furniture Lacquer",
+    "type": "lacquer",
+    "finish": "semi-matt (30)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/intact-laq-30",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9493/product/2071/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9490/product/2071/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7559/product/2071/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Paneeli Ässä Panel Ace 10",
+    "category": "Interior Wood Varnish",
+    "type": "panel varnish",
+    "finish": "matt (10)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/paneeli-assa-panel-ace-10",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8400/product/2113/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7905/product/2113/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9528/product/2113/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Paneeli Ässä Panel Ace 20",
+    "category": "Interior Wood Varnish",
+    "type": "panel varnish",
+    "finish": "semi-matt (20)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/paneeli-assa-panel-ace-20",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7705/product/2177/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9552/product/2177/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9399/product/2177/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Hydrosol Masonry Primer",
+    "category": "Masonry Primer",
+    "type": "primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/hydrosol-masonry-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9453/product/1486/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9697/product/1486/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9700/product/1486/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Teho Oil Paint",
+    "category": "Exterior Wood Opaque Paint",
+    "type": "solvent-borne opaque paint",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/teho-oil-paint",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9485/product/2091/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9164/product/2091/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Roof Cleaning Agent (Panssaripesu)",
+    "category": "Cleaner",
+    "type": "roof cleaner",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/roof-cleaning-agent-panssaripesu",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9498/product/2049/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9451/product/2049/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8096/product/2049/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Valtti Plus Primer",
+    "category": "Exterior Wood Primer",
+    "type": "primer",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/valtti-plus-primer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9637/product/19188/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Siro Matt",
+    "category": "Interior Ceiling Paint",
+    "type": "ceiling paint",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/siro-matt",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9412/product/2282/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9417/product/2282/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Exterior Paint Colour Tester",
+    "category": "Tester",
+    "type": "exterior paint tester",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/exterior-paint-colour-tester",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8895/product/6719/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Valtti Arctic",
+    "category": "Exterior Wood Semi-Transparent",
+    "type": "decorative wood stain",
+    "finish": "translucent/pearlescent",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/valtti-arctic",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7838/product/2062/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9447/product/2062/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9527/product/2062/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Remontti-Ässä",
+    "category": "Interior Wall & Ceiling Paint",
+    "type": "emulsion",
+    "finish": "matt",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/remontti-assa",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7914/product/3877/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8130/product/3877/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Presto LF",
+    "category": "Filler",
+    "type": "lightweight filler",
+    "finish": "",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/presto-lf",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8255/product/2024/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8338/product/2024/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Presto R Roll-On Filler (White)",
+    "category": "Filler",
+    "type": "roll-on filler",
+    "finish": "white",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/presto-r-roll-on-filler-white",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9836/product/758/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9838/product/758/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9835/product/758/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9837/product/758/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  },
+  {
+    "sku": "",
+    "name": "Parketti Ässä 80 Floor Lacquer",
+    "category": "Interior Wood Floor Lacquer",
+    "type": "waterborne lacquer",
+    "finish": "gloss (80)",
+    "links": {
+      "pdp": "https://www.tikkurila.co.uk/parketti-assa-80-floor-lacquer",
+      "pdfs": [
+        "https://www.tikkurila.co.uk/amfile/file/download/file/9497/product/2008/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/8339/product/2008/",
+        "https://www.tikkurila.co.uk/amfile/file/download/file/7603/product/2008/"
+      ]
+    },
+    "version": "2025-10-01",
+    "lastUpdated": "2025-10-01"
+  }
+]
