@@ -1,30 +1,56 @@
-// api/tikka-anthropic.js  (CommonJS to avoid ESM warning)
-module.exports = async function handler(req, res) {
-  // CORS
-  res.setHeader("Access-Control-Allow-Origin","*");
-  res.setHeader("Access-Control-Allow-Headers","Content-Type");
-  res.setHeader("Access-Control-Allow-Methods","POST,OPTIONS,GET");
+export default async function handler(req, res) {
+  // --- CORS ---
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+  res.setHeader("Access-Control-Allow-Methods", "POST, OPTIONS, GET");
+
   if (req.method === "OPTIONS") return res.status(200).end();
-  if (req.method === "GET") return res.status(200).json({ ok:true, route:"tikka-anthropic" });
-  if (req.method !== "POST") return res.status(405).json({ error:"method_not_allowed" });
+  if (req.method === "GET") {
+    return res.status(200).json({ ok: true, route: "tikka-anthropic" });
+  }
+  if (req.method !== "POST") {
+    return res.status(405).json({ error: "Method not allowed" });
+  }
 
   try {
-    if (!process.env.ANTHROPIC_API_KEY) {
-      return res.status(500).json({ error:"missing_api_key" });
-    }
+    const { question, contexts = [] } = await req.json?.() || req.body;
 
-    // Body parsing (works whether Vercel parsed it or not)
-    const body = typeof req.body === "object" ? req.body : JSON.parse(req.body || "{}");
-    const { question = "", contexts = [] } = body;
+    const MODEL = "claude-3-haiku-20240307"; // pick your model
+
+    const SYSTEM_PROMPT = `
+You are Tikkurila UK's paint support agent on live chat.
+
+STYLE & FORMAT
+- Keep replies short and friendly (40–90 words).
+- Use UK English.
+- Return HTML only (<p>, <ul>, <li>, <b>, <a>).
+- Prefer one clear recommendation; add a brief why.
+- Progressive disclosure: never dump everything at once.
+
+INTERACTION RULES
+- If the user’s request is unclear, ask ONE targeted question first.
+- If clear, give the best option + 1 alternative max.
+- Link to product PDP/TDS/SDS when present in context.
+- If context is missing, say so and offer WhatsApp or Help Centre.
+- Stay within provided context (don’t invent specs).
+
+DOMAIN RULES (apply when relevant)
+- Ceilings → Anti-Reflex White [2] (dead-matt, non-flashing).
+- Bathrooms → Luja system (Luja Universal Primer + Luja 7/20/40).
+- Radiators → Helmi Primer, then Helmi 10/30/80 or Everal Aqua 10/40/80.
+`;
 
     const payload = {
-      model: "claude-3-haiku-20240307",
-      max_tokens: 400,
-      temperature: 0.2,
-      system:
-        "You are Tikkurila UK's paint assistant. Answer strictly from the provided context. " +
-        "If not in context, advise WhatsApp or the Help Centre.",
-      messages: [{ role: "user", content: `Q: ${question}\n\nContext:\n${(contexts||[]).join("\n---\n")}` }]
+      model: MODEL,
+      max_tokens: 280,
+      temperature: 0.3,
+      system: SYSTEM_PROMPT,
+      messages: [
+        {
+          role: "user",
+          content: `Q: ${question}\n\nContext:\n${contexts.join("\n---\n")}`
+        }
+      ]
     };
 
     const r = await fetch("https://api.anthropic.com/v1/messages", {
@@ -37,15 +63,13 @@ module.exports = async function handler(req, res) {
       body: JSON.stringify(payload)
     });
 
-    const text = await r.text();
-    if (!r.ok) {
-      // return Anthropic’s real error so you can see why it failed
-      return res.status(r.status).json({ error: "anthropic_error", detail: text });
-    }
+    const data = await r.json();
+    const answer = data?.content?.[0]?.text || "No answer.";
+    res.status(r.ok ? 200 : r.status).json({ text: answer });
 
-    const data = JSON.parse(text);
-    return res.status(200).json({ text: data?.content?.[0]?.text || "" });
-  } catch (e) {
-    return res.status(500).json({ error: "internal", detail: String(e) });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: "Internal server error" });
   }
-};
+}
+
