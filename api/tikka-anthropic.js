@@ -18,7 +18,7 @@ module.exports = async function handler(req, res) {
     const { question = "", contexts = [] } = body;
 
     const payload = {
-      model: "claude-3-5-sonnet-latest",
+      model: "claude-3-haiku-20240307",
       max_tokens: 400,
       temperature: 0.2,
       system:
